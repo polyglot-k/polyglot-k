@@ -1,3 +1,5 @@
+![knu-k](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20knu-k%20&height=300&fontSize=100&textBg=true)
+
 ```What does not kill me makes me stronger (Nietzsche)```
 
 ## STACK
