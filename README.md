@@ -10,5 +10,5 @@
 
 |날짜|내용|코멘트|
 |------|---|---|
-|2023-10-13|[대경권 공공데이터 활용 해커톤 (더블케이) - 당근복지](https://github.com/KNU-K/welfare_center_guide_SERVER) |예선통과|
+|2023-10-13|[대경권 공공데이터 활용 해커톤 (더블케이) - 당근복지](https://github.com/KNU-K/welfare_center_guide_SERVER) |본선진출|
 |2023-11-11 ~ 2023-11-12|[대구를 빛내는 SW 해커톤(팀 더블케이) - 두잉어스](https://github.com/KNU-K/doing-us) |입상(우수상) |
