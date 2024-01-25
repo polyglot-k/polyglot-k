@@ -15,5 +15,6 @@
 |------|---|---|---|
 |2023-10-13|[대경권 공공데이터 활용 해커톤 (더블케이) - 당근복지](https://github.com/KNU-K/welfare_center_guide_SERVER) |입상(우수상)|[link](https://velog.io/@knu-kang/2023-2%ED%95%99%EA%B8%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|
 |2023-11-11 ~ 2023-11-12|[대구를 빛내는 SW 해커톤(팀 더블케이) - 두잉어스](https://github.com/KNU-K/doing-us) |입상(우수상) |[link](https://velog.io/@knu-kang/2023-2%ED%95%99%EA%B8%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|
-|2024-01-11 ~ 2024-01-16|[My Diary Blog Project( 개인 토이 프로젝트)](https://github.com/KNU-K/my_diary_blog)  |완성||
+|2024-01-11 ~ 2024-01-16|[My Diary Blog Project(개인 토이 프로젝트)](https://github.com/KNU-K/my_diary_blog)  |완성|[link](https://velog.io/@knu-kang/2023-%EC%83%81%EB%B0%98%EA%B8%B0-My-Diary-Blog-%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|
 |2024-01-25 ~ | 펜션 예약 웹 사이트(외주) |진행중||
+|2024-01-27 ~ |Algo Memo(개인 토이 프로젝트) |진행중||
