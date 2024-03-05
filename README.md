@@ -12,7 +12,16 @@
 ## 📖PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knu_K)](https://solved.ac/knu_k)
 
-## 🚩CAREER
+## 🧐CAREER
+
+|날짜|내용|코멘트|
+|------|---|---|
+|2023| 대경권 공공데이터 활용 해커톤 (더블케이) | 우수상 |
+|2023| 대구를 빛내는 SW 해커톤 (더블케이) | 우수상 |
+|2024| 경북대 Webtentional(WTT) 동아리 회장 |진행중|
+|2024| 케어온(주) 기업 협력 프로젝트 |진행중|
+
+## 🚩PROJECT
 
 |날짜|내용|코멘트|회고록|
 |------|---|---|---|
