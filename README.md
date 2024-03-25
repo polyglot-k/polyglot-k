@@ -9,9 +9,6 @@
 ## ✏️Current Learning Stack
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=black"/> <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=black"/> <img alt="elasticSearch" src="https://img.shields.io/badge/elasticSearch-005571.svg?&style=for-the-badge&logo=elasticSearch&logoColor=black"/>
 
-## 📖PS
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knu_K)](https://solved.ac/knu_k)
-
 ## 🧐CAREER
 
 |날짜|내용|코멘트|
