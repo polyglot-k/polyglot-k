@@ -1,6 +1,5 @@
 ![knu-k](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20knu-k%20&height=300&fontSize=100&textBg=true)
 
-```What does not kill me makes me stronger (Nietzsche)```
 
 ## 🔥STACK
 
@@ -17,6 +16,7 @@
 |2023| 대구를 빛내는 SW 해커톤 (더블케이) | 우수상 |
 |2024| 경북대 Webtentional(WTT) 동아리 회장 취임 |진행중|
 |2024| 케어온(주) 기업 협력 프로젝트 |진행중|
+|2024| 한국정보기술학회 하계종합학술 대회 논문채택 |완료|
 
 ## 🚩PROJECT
 
