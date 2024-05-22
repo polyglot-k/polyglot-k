@@ -29,4 +29,5 @@
 |2024-01-27 ~ |Algo Memo(개인 토이 프로젝트) |진행중||
 |2024-03-07 ~ |[G-StartUp Platform(기업 프로젝트 - 팀장)](https://github.com/care-on) |진행중||
 |2024-04-28 ~ |[DailyTracks(사이드 프로젝트 과제)](https://github.com/DailyTracks)|진행중||
+|2024-05-22 ~ |[db-auto-backup 유틸 개발](https://github.com/knu-k/db-auto-backup)|v1.0.2 (npm 배포)||
 
