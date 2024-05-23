@@ -1,5 +1,4 @@
 ![knu-k](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20knu-k%20&height=300&fontSize=100&textBg=true)
-<a href="https://opgc.me/#/users/knu-k" target="_blank"><img src="https://api.opgc.me/githubs/users/knu-k/tag/?theme=basic" /></a>
 
 ## 🔥STACK
 
