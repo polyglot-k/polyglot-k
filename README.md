@@ -42,7 +42,7 @@ Project
 |2024-06 ~ |video-steaming-grpc-server(개인프로젝트)|진행예정||
 |2024-06 ~ |docker-container-log-collector(개인프로젝트)|진행예정 ||
 |2024-06 ~ |search-engine-with-elasticsearch(개인프로젝트)|진행예정 ||
-|2024-06-16 ~ |port-checker(개인프로젝트)|v1.0.0 ||
+|2024-06-16 ~ |[port-checker(개인프로젝트)](https://github.com/KNU-K/port-checker/releases/tag/v1.0.0)|v1.0.0 ||
 
 </div>
 </div>
