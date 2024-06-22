@@ -22,6 +22,7 @@ I'm Kang Tae-hyun, a backend developer who believes that code is a means of comm
 |2024| 경북대 Webtentional(WTT) 동아리 회장 취임 |진행중|
 |2024| 케어온(주) 기업 협력 프로젝트 G-Start-Up (팀장) |완료|
 |2024| [한국정보기술학회 하계종합학술 대회 논문채택 - 유사도 알고리즘을 통한 챗봇 성능 개선에 관한 연구](https://github.com/KNU-K/KNU-K/files/15234497/2.pdf)|동상|
+|2024| TypeStrong/typedoc 라이브러리 문서 추가 |기여|
 </div>
 
 <h2 align="left">
