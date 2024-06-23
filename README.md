@@ -31,9 +31,9 @@ I'm Kang Tae-hyun, a backend developer who believes that code is a means of comm
 
 <div align="left">
   
-|날짜|내용|
-|------|---|
-|2024| [TypeStrong/typedoc 라이브러리 문서 추가](https://github.com/TypeStrong/typedoc/pull/2602)|
+|날짜|내용|코멘트|
+|------|---|---|
+|2024| [TypeStrong/typedoc 라이브러리 기여](https://github.com/TypeStrong/typedoc/pull/2602)|국제화 모듈 cts내에 한국어 추가 |
 </div>
 
 <h2 align="left">
