@@ -2,10 +2,11 @@
   <div>
 
   <h2 align="center">
- Introduce
+ Introduce & Skill
 </h2>
 I'm Kang Tae-hyun, a backend developer who believes that code is a means of communication. Good code can communicate with the program, team members, and even the end users of the service. That's why I always strive to produce high-quality code and performance.
-<br><br><br>
+<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="20"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="20"> 
 
@@ -15,9 +16,8 @@ I'm Kang Tae-hyun, a backend developer who believes that code is a means of comm
 
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="20"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="20">
 
-
-
-<br><br>
+<br>
+<br>
 <h2 align="left">
  AWard & Career
 
