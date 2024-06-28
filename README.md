@@ -62,8 +62,8 @@ Project
 |2024-04-28 ~ |[DailyTracks(사이드 프로젝트 과제)](https://github.com/DailyTracks)|완료||
 |2024-05-22 ~ |[db-auto-backup 유틸 개발](https://github.com/knu-k/db-auto-backup)|v1.1.3 (npm 배포)<br/> 주간 최고 다운 수 - 333회 ||
 |2024-06-16 ~ |[port-checker(개인프로젝트)](https://github.com/KNU-K/port-checker/releases/tag/v1.0.0)|v1.0.0 ||
-|2024-06 ~ |[bulletproof node.js architecture 한국어 문서화](https://github.com/KNU-K/bulletproof-node.js-project-architecture-ko)|완료||
-|2024-06 ~ |[GraphQL를 활용하여 RestAPI의 Under-Fetching/Over-Fetching 문제를 해결하는 예제 문서 ](https://github.com/KNU-K/graphql-ts-practica)|진행중 ||
+|2024-06 |[bulletproof node.js architecture 한국어 문서화](https://github.com/KNU-K/bulletproof-node.js-project-architecture-ko)|완료||
+|2024-06 |[GraphQL를 활용하여 RestAPI의 Under-Fetching/Over-Fetching 문제를 해결하는 예제 문서 ](https://github.com/KNU-K/graphql-ts-practica)|진행중 ||
 
 </div>
 </div>
