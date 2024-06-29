@@ -43,8 +43,8 @@ I'm Kang Tae-hyun, a backend developer who believes that code is a means of comm
   
 |날짜|내용|코멘트|
 |------|---|---|
-|2024| [TypeStrong/typedoc 라이브러리 기여](https://github.com/TypeStrong/typedoc/pull/2602)|국제화 모듈 cts내에 한국어 추가 |
-|2024| [Toss es-hangul 라이브러리 기여](https://github.com/toss/es-hangul/pull/133)| getHangulAcronym 기능 제작 및 문서화 |
+|2024| [[TypeStrong] typedoc 라이브러리 기여](https://github.com/TypeStrong/typedoc/pull/2602)|국제화 모듈 cts내에 한국어 추가 |
+|2024| [[Toss] es-hangul 라이브러리 기여](https://github.com/toss/es-hangul/pull/133)| getHangulAcronym 기능 제작 및 문서화 |
 </div>
 
 <h2 align="left">
