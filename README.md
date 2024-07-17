@@ -6,7 +6,6 @@
 </h2>
 I'm Kang Tae-hyun, a backend developer who believes that code is a means of communication. Good code can communicate with the program, team members, and even the end users of the service. That's why I always strive to produce high-quality code and performance.
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knu-k&langs_count=10&layout=compact&theme=dark)](https://github.com/knu-k)﻿
 <br><br>
 <br>
 
@@ -19,6 +18,8 @@ I'm Kang Tae-hyun, a backend developer who believes that code is a means of comm
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="20"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="20">
 
 <br>
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knu-k&langs_count=10&layout=compact&theme=dark)](https://github.com/knu-k)﻿
+
 <br>
 <h2 align="left">
  AWard & Career
