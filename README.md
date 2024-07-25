@@ -67,6 +67,7 @@ Project
 |2024-06-16 ~ |[port-checker(개인프로젝트)](https://github.com/KNU-K/port-checker/releases/tag/v1.0.0)|v1.0.0 ||
 |2024-06 |[bulletproof node.js architecture (with Commonjs) 문서화(영어 한국어 대응)](https://github.com/KNU-K/bulletproof-node-common-js-project-architecture)|완료||
 |2024-06 |[GraphQL를 활용하여 RestAPI의 Under-Fetching/Over-Fetching 문제를 해결하는 예제 문서 ](https://github.com/KNU-K/graphql-ts-practica)|진행중 ||
+|2024-07 |[AI 산재](https://github.com/Injury-law-assist)|완료 - 리팩토링중 ||
 
 </div>
 </div>
