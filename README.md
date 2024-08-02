@@ -63,8 +63,6 @@ Project
 |2024-01-25 ~ | 펜션 예약 웹 사이트(외주) |진행중||
 |2024-03-07 ~ |[G-StartUp Platform(기업 프로젝트 - 팀장)](https://github.com/care-on) |완료||
 |2024-04-28 ~ |[DailyTracks(사이드 프로젝트 과제)](https://github.com/DailyTracks)|완료||
-|2024-05-22 ~ |[db-auto-backup 유틸 개발](https://github.com/knu-k/db-auto-backup)|v1.1.3 (npm 배포)<br/> 주간 최고 다운 수 - 333회 ||
-|2024-06-16 ~ |[port-checker(개인프로젝트)](https://github.com/KNU-K/port-checker/releases/tag/v1.0.0)|v1.0.0 ||
 |2024-06 |[bulletproof node.js architecture (with Commonjs) 문서화(영어 한국어 대응)](https://github.com/KNU-K/bulletproof-node-common-js-project-architecture)|완료||
 |2024-06 |[GraphQL를 활용하여 RestAPI의 Under-Fetching/Over-Fetching 문제를 해결하는 예제 문서 ](https://github.com/KNU-K/graphql-ts-practica)|진행중 ||
 |2024-07 |[AI 산재](https://github.com/Injury-law-assist)|완료 - 리팩토링중 ||
