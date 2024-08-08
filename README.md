@@ -1,71 +1,40 @@
 <div align="center">
-  <div>
-
-  <h2 align="center">
- Introduce & Skill
-</h2>
-I'm Kang Tae-hyun, a backend developer who believes that code is a means of communication. Good code can communicate with the program, team members, and even the end users of the service. That's why I always strive to produce high-quality code and performance.
-
-<br><br>
-<br>
-
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="20"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="20"> 
-
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="20"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="20"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="20"> <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="20">
-
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="20"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="20">
-
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="20"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="20">
-
-<br>
-
-<br>
-<h2 align="left">
- AWard & Career
-
-</h2>
-
-<div align="left">
   
-|날짜|내용|코멘트|
-|------|---|---|
-|2023| 대경권 공공데이터 활용 해커톤 (더블케이) | 우수상 |
-|2023| 대구를 빛내는 SW 해커톤 (더블케이) | 우수상 |
-|2024| 경북대 Webtentional(WTT) 동아리 회장 취임 |진행중|
-|2024| 케어온(주) 기업 협력 프로젝트 G-Start-Up (팀장) |완료|
-|2024| [한국정보기술학회 하계종합학술 대회 논문채택 - 유사도 알고리즘을 통한 챗봇 성능 개선에 관한 연구](https://github.com/KNU-K/KNU-K/files/15234497/2.pdf)|동상|
+## Intoduction
+
+안녕하세요, 저는 현재 경북대학교에서 재학중인 강태현입니다. 저는 `소프트웨어 엔지니어`를 목표로 하고 있습니다. 새로운 기술을 습득하고 이를 실제 상황에 적용하는 것을 좋아합니다. 다양한 프레임워크와 프로그래밍 언어에 능숙하여 새로운 기술을 신속하게 습득하여 빠르게 문제를 해결하는 것이 저의 강점입니다. 다양한 경험을 통해 빠른 성장을 목표로 하며, 개인보다는 팀의 성장을 우선적으로 생각합니다. 또한, 저는 도전하는 것을 무서워 하지 않습니다. 이러한 저의 가치관에 따라 노력한 결과로 해커톤에서 `2번의 우수상`과 연구 대회에서 `동상`을 수상하였습니다. 추가로, 최근에는 `gRPC`와 `마이크로서비스 아키텍처(MSA)`에 대해서 깊이 공부하고 있습니다.
+
+Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National University with a goal of becoming a `software engineer`. I am passionate about mastering new technologies and applying them to real-world scenarios. My proficiency with a range of frameworks and programming languages enables me to swiftly adapt to new skills and evaluate their effectiveness in various contexts. I am dedicated to achieving rapid growth through diverse experiences and thrive on tackling challenges. I have received two `Excellence Awards` at hackathons and a `Bronze Medal` in a research competition. Lately, I have been deeply engaged in exploring `gRPC and Microservices Architecture (MSA)`
+
+
+
 </div>
 
-<h2 align="left">
- Contribution
+## Skill
+### Proficient
+Javascript, Typescript, Java, Express.js, React.js, Spring boot, Spring Jpa, Mysql
 
-</h2>
+### Experienced
+Python, Kotlin, Go, Flask, C++, Mongo DB, Postgreql, Redis, RabbitMQ, AWS, Nginx
 
-<div align="left">
-  
-|날짜|내용|코멘트|
-|------|---|---|
-|2024| [[TypeStrong] typedoc 라이브러리 기여](https://github.com/TypeStrong/typedoc/pull/2602)|국제화 모듈 cts내에 한국어 추가 |
-|2024| [[Toss] es-hangul 라이브러리 기여](https://github.com/toss/es-hangul/pull/133)| acronymizeHangul 기능 제작 및 문서화 |
-</div>
 
-<h2 align="left">
-Project
-</h2>
+## Internel Experience / Awards
+* 대경권 공공데이터 활용 해커톤 (2023.10 / BE,PM /우수상)
+* 대구를 빛내는 SW 해커톤 (2023.11 / BE,PM /우수상)
+* (주) 케어온 기업협력 프로젝트 - G-Start-Up  (2024.03 / PL)
+* 한국정보기술학회 하계종합학술 대회 (2024.06 / 제1저자 / 논문 동상 )
 
-<div align="left">
-  
-|날짜|내용|코멘트|회고록|
-|------|---|---|---|
-|2023-10-13|[대경권 공공데이터 활용 해커톤 (더블케이) - 당근복지](https://github.com/KNU-K/welfare_center_guide_SERVER) |입상(우수상)|[link](https://velog.io/@knu-kang/2023-2%ED%95%99%EA%B8%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|
-|2023-11-11 ~ 2023-11-12|[대구를 빛내는 SW 해커톤(팀 더블케이) - 두잉어스](https://github.com/KNU-K/doing-us) |입상(우수상) |[link](https://velog.io/@knu-kang/2023-2%ED%95%99%EA%B8%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|
-|2024-01-11 ~ 2024-01-16|[My Diary Blog Project(개인 토이 프로젝트)](https://github.com/KNU-K/my_diary_blog)  |완성|[link](https://velog.io/@knu-kang/2023-%EC%83%81%EB%B0%98%EA%B8%B0-My-Diary-Blog-%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|
-|2024-01-25 ~ | 펜션 예약 웹 사이트(외주) |진행중||
-|2024-03-07 ~ |[G-StartUp Platform(기업 프로젝트 - 팀장)](https://github.com/care-on) |완료||
-|2024-04-28 ~ |[DailyTracks(사이드 프로젝트 과제)](https://github.com/DailyTracks)|완료||
-|2024-06 |[bulletproof node.js architecture (with Commonjs) 문서화(영어 한국어 대응)](https://github.com/KNU-K/bulletproof-node-common-js-project-architecture)|완료||
-|2024-06 |[GraphQL를 활용하여 RestAPI의 Under-Fetching/Over-Fetching 문제를 해결하는 예제 문서 ](https://github.com/KNU-K/graphql-ts-practica)|진행중 ||
-|2024-07 |[AI 산재](https://github.com/Injury-law-assist)|완료 - 리팩토링중 ||
-|2024-07 |[grpc-log-stream](https://github.com/knu-k/grpc-log-stream)| 완료 - 고도화중||
-</div>
-</div>
+## Externel Experience 
+* [`Toss의 es-hangul 라이브러리`의 개발 및 유지보수에 기여](https://github.com/toss/es-hangul/pull/133) (2023.06 / Contributor / acronymizeHangul 기능)
+* [`Typedoc 라이브러리`의 개발 및 개선에 기여](https://github.com/TypeStrong/typedoc/pull/2602) (2023.06 / Contributor / 국제화 모듈 개선)
+
+## Project
+- [My Diary Blog Project](https://github.com/KNU-K/my_diary_blog) (2024.01 - 2024.01 / 1인 / FE, BE)
+- [G-StartUp Platform](https://github.com/care-on) (2024.03 - 2024.06 / 4인 / PL, PM, BE)
+- [DailyTracks(사이드 프로젝트 과제)](https://github.com/DailyTracks) (2024.04 - 2024.06 / 2인 / PL, BE)
+- [bulletproof node.js architecture (with Commonjs) 문서화](https://github.com/KNU-K/bulletproof-node-common-js-project-architecture) (2024.06 - 2024.06 / 1인 / 문서화)
+- [GraphQL를 활용하여 RestAPI의 Under-Fetching/Over-Fetching 문제를 해결하는 예제 문서 ](https://github.com/KNU-K/graphql-ts-practica) (2024.06 - 진행중 / 1인 / 문서화)
+- [AI 산재(AI 를 통해서 산재처리를 도와주는 챗봇)](https://github.com/Injury-law-assist) (2024.07 - 진행중 / 4인 / PL, BE, FE)
+- [grpc-log-stream](https://github.com/knu-k/grpc-log-stream) (2024.07 - 진행중 / 1인 / BE, FE)
+
+## 
