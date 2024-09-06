@@ -39,5 +39,5 @@ Python, Kotlin, Go, Flask, C++, Mongo DB, Postgreql, Redis, RabbitMQ, AWS, Nginx
 - [GraphQL를 활용하여 RestAPI의 Under-Fetching/Over-Fetching 문제를 해결하는 예제 문서 ](https://github.com/KNU-K/graphql-ts-practica) (2024.06 - 진행중 / 1인 / 문서화)
 - [AI 산재(AI 를 통해서 산재처리를 도와주는 챗봇)](https://github.com/Injury-law-assist) (2024.07 - 진행중 / 4인 / PL, BE, FE)
 - [grpc-log-stream](https://github.com/knu-k/grpc-log-stream) (2024.07 - 진행중 / 1인 / BE, FE)
-
+- [fake-server](https://github.com/TaskSprints/fake-server) (2024.09 - v0.0.3 / 1인 / npm 배포)
 ## 
