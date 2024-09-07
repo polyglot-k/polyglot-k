@@ -41,4 +41,10 @@ Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National U
 - [AI 산재(AI 를 통해서 산재처리를 도와주는 챗봇)](https://github.com/Injury-law-assist) (2024.07 - 진행중 / 4인 / PL, BE, FE)
 - [grpc-log-stream](https://github.com/knu-k/grpc-log-stream) (2024.07 - 진행중 / 1인 / BE, FE)
 - [fake-server](https://github.com/TaskSprints/fake-server) (2024.09 - v0.0.3 / 1인 / npm 배포)
-## 
+
+## Certification
+- 오픽 IM1
+- SQLD
+- 네트워크 관리사 2급
+- 리눅스 마스터 2급
+- 정보처리기능사
