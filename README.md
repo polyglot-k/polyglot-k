@@ -23,7 +23,8 @@ Python, Kotlin, Go, Flask, C++, Mongo DB, Postgreql, Redis, RabbitMQ, AWS, Nginx
 * 대구를 빛내는 SW 해커톤 (2023.11 / BE,PM /우수상)
 * (주) 케어온 기업협력 프로젝트 - G-Start-Up  (2024.03 / PL)
 * 한국정보기술학회 하계종합학술 대회 (2024.06 / 제1저자 / 논문 동상 )
-
+* (주) 리소프트 코드알파 기업협력 프로젝트 (2024.09 / 진행중)
+* 
 ## Externel Experience
 * TaskSprints 스터디 진행 - Auction Platform 개발 중 (2024.08 / Leader, FE, BE)
 
