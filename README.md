@@ -11,11 +11,11 @@ Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National U
 </div>
 
 ## Skill
-### --Proficient
-Javascript, Typescript, Java, Express.js, React.js, Spring boot, Spring Jpa, Mysql
+#### Proficient
+* Javascript, Typescript, Java, Express.js, React.js, Spring boot, Spring Jpa, Mysql
 
-### --Experienced
-Python, Kotlin, Go, Flask, C++, Mongo DB, Postgreql, Redis, RabbitMQ, AWS, Nginx
+#### Experienced
+* Python, Kotlin, Go, Flask, C++, Mongo DB, Postgreql, Redis, RabbitMQ, AWS, Nginx
 
 
 ## Internel Experience / Awards
@@ -24,11 +24,11 @@ Python, Kotlin, Go, Flask, C++, Mongo DB, Postgreql, Redis, RabbitMQ, AWS, Nginx
 * (주) 케어온 기업협력 프로젝트 - G-Start-Up  (2024.03 / PL)
 * 한국정보기술학회 하계종합학술 대회 (2024.06 / 제1저자 / 논문 동상 )
 * (주) 리소프트 코드알파 기업협력 프로젝트 (2024.09 / 진행중)
-* 
-## Externel Experience
+  
+## Externel Experience & Open Source Experience
+#### Externel Experience
 * TaskSprints 스터디 진행 - Auction Platform 개발 중 (2024.08 / Leader, FE, BE)
-
-## Open Source Experience
+#### Open Source Experience
 * [`Toss의 es-hangul 라이브러리`의 개발 및 유지보수에 기여](https://github.com/toss/es-hangul/pull/133) (2023.06 / Contributor / acronymizeHangul 기능)
 * [`Typedoc 라이브러리`의 개발 및 개선에 기여](https://github.com/TypeStrong/typedoc/pull/2602) (2023.06 / Contributor / 국제화 모듈 개선)
 
