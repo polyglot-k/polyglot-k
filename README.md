@@ -10,9 +10,9 @@ Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National U
 
 </div>
 
-## Skill
+## Tech Skill
 #### Proficient
-* Javascript, Typescript, Java, Express.js, React.js, Spring boot, Spring Jpa, Mysql
+* Javascript, Typescript, Java, Express.js, React.js, Spring boot, Spring Jpa, Mysql, AWS, Docker
 
 #### Experienced
 * Python, Kotlin, Go, Flask, C++, Mongo DB, Postgreql, Redis, RabbitMQ, AWS, Nginx
