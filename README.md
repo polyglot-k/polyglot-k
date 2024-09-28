@@ -24,7 +24,8 @@ Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National U
 * (주) 케어온 기업협력 프로젝트 - G-Start-Up  (2024.03 / PL)
 * 한국정보기술학회 하계종합학술 대회 (2024.06 / 제1저자 / 논문 동상 )
 * (주) 리소프트 코드알파 기업협력 프로젝트 (2024.09 / 진행중)
-* Google Developer Student Clubs KNU 4기 Member
+* GDG on Campus Kyungpook National University 4기 Member (2024.09 / 진행중)
+  * 스터디 진행 중 (2024.09 / 트레이드 오프 기반의 프로젝트 )
 * 2024년 대구를 빛내는 SW 해커톤 (2024.09 / BE,FE / 진행중)
   
 ## Externel Experience & Open Source Experience
