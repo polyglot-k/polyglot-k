@@ -7,6 +7,7 @@
 Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National University with a goal of becoming a `software engineer`. I am passionate about mastering new technologies and applying them to real-world scenarios. My proficiency with a range of frameworks and programming languages enables me to swiftly adapt to new skills and evaluate their effectiveness in various contexts. I am dedicated to achieving rapid growth through diverse experiences and thrive on tackling challenges. I have received two `Excellence Awards` at hackathons and a `Bronze Medal` in a research competition. Lately, I have been deeply engaged in exploring `gRPC and Microservices Architecture (MSA)`
 
 
+<a href="https://github.com/knu-k"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knu-k&layout=compact&theme=nord&hide_border=true" /></a> 
 
 </div>
 
