@@ -2,9 +2,9 @@
   
 ## Intoduction
 
-안녕하세요, 저는 현재 경북대학교에서 재학중인 강태현입니다. 저는 `소프트웨어 엔지니어`를 목표로 하고 있습니다. 새로운 기술을 습득하고 이를 실제 상황에 적용하는 것을 좋아합니다. 다양한 프레임워크와 프로그래밍 언어에 능숙하여 새로운 기술을 신속하게 습득하여 빠르게 문제를 해결하는 것이 저의 강점입니다. 다양한 경험을 통해 빠른 성장을 목표로 하며, 개인보다는 팀의 성장을 우선적으로 생각합니다. 또한, 저는 도전하는 것을 무서워 하지 않습니다. 이러한 저의 가치관에 따라 노력한 결과로 해커톤에서 `2번의 우수상`과 연구 대회에서 `동상`을 수상하였습니다. 추가로, 최근에는 `gRPC`와 `마이크로서비스 아키텍처(MSA)`에 대해서 깊이 공부하고 있습니다.
+안녕하세요, 저는 현재 경북대학교에서 재학중인 강태현입니다. 저는 `소프트웨어 엔지니어`를 목표로 하고 있습니다. 새로운 기술을 습득하고 이를 실제 상황에 적용하는 것을 좋아합니다. 다양한 프레임워크와 프로그래밍 언어에 능숙하여 새로운 기술을 신속하게 습득하여 빠르게 문제를 해결하는 것이 저의 강점입니다. 다양한 경험을 통해 빠른 성장을 목표로 하며, 개인보다는 팀의 성장을 우선적으로 생각합니다. 또한, 저는 도전하는 것을 무서워 하지 않습니다. 이러한 저의 가치관에 따라 노력한 결과로 해커톤에서 `3번의 우수상`과 연구 대회에서 `동상`을 수상하였습니다. 추가로, 최근에는 `gRPC`와 `마이크로서비스 아키텍처(MSA)`에 대해서 깊이 공부하고 있습니다.
 
-Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National University with a goal of becoming a `software engineer`. I am passionate about mastering new technologies and applying them to real-world scenarios. My proficiency with a range of frameworks and programming languages enables me to swiftly adapt to new skills and evaluate their effectiveness in various contexts. I am dedicated to achieving rapid growth through diverse experiences and thrive on tackling challenges. I have received two `Excellence Awards` at hackathons and a `Bronze Medal` in a research competition. Lately, I have been deeply engaged in exploring `gRPC and Microservices Architecture (MSA)`
+Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National University with a goal of becoming a `software engineer`. I am passionate about mastering new technologies and applying them to real-world scenarios. My proficiency with a range of frameworks and programming languages enables me to swiftly adapt to new skills and evaluate their effectiveness in various contexts. I am dedicated to achieving rapid growth through diverse experiences and thrive on tackling challenges. I have received three `Excellence Awards` at hackathons and a `Bronze Medal` in a research competition. Lately, I have been deeply engaged in exploring `gRPC and Microservices Architecture (MSA)`
 
 
 <a href="https://github.com/knu-k"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knu-k&layout=compact&theme=nord&hide_border=true" /></a> 
