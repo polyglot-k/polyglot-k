@@ -34,10 +34,10 @@ Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National U
 * Externel Experience
   * 한국정보기술학회 하계종합학술 대회 (2024.06 / 제1저자 / **동상** )
   * TaskSprints 스터디 진행 - Auction Platform 개발 중 (2024.08 / Leader, FE, BE)
+  * 2024년 우아한 테크 프리코스 완주
 * Open Source Experience
   * [`Toss의 es-hangul 라이브러리`의 개발 및 유지보수에 기여](https://github.com/toss/es-hangul/pull/133) (2023.06 / Contributor / acronymizeHangul 기능)
   * [`Typedoc 라이브러리`의 개발 및 개선에 기여](https://github.com/TypeStrong/typedoc/pull/2602) (2023.06 / Contributor / 국제화 모듈 개선)
-* 2024년 우아한 테크 프리코스 완주
 
 ## Project
 - [My Diary Blog Project](https://github.com/KNU-K/my_diary_blog) (2024.01 / 1인 / FE, BE)
