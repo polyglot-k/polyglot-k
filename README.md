@@ -38,6 +38,7 @@ Hello, I’m Taehyun Kang, currently pursuing my studies at Kyungpook National U
 * Open Source Experience
   * [`Toss의 es-hangul 라이브러리`의 개발 및 유지보수에 기여](https://github.com/toss/es-hangul/pull/133) (2023.06 / Contributor / acronymizeHangul 기능)
   * [`Typedoc 라이브러리`의 개발 및 개선에 기여](https://github.com/TypeStrong/typedoc/pull/2602) (2023.06 / Contributor / 국제화 모듈 개선)
+  * [`Spring-Framework`내에 코드 품질 개선](https://github.com/spring-projects/spring-framework/pull/33902) (2024.11 / Contributor / FilteredIterator)
 
 ## Project
 - [My Diary Blog Project](https://github.com/KNU-K/my_diary_blog) (2024.01 / 1인 / FE, BE)
