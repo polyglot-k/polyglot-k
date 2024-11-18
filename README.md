@@ -5,6 +5,9 @@
 
 `백엔드`와 `프론트엔드`를 넘어서 시스템 전반을 이해하며 문제를 해결하는 과정에서 더 큰 만족을 느낍니다. 계속해서 성장하고, 다양한 기술을 배우며 발전하는 것을 목표로 하고 있습니다. 
 
+## Experience
+[Go to](./experience.md)
+
 ## Project
 - [My Diary Blog Project](https://github.com/KNU-K/my_diary_blog) (2024.01 / 1인 / FE, BE)
 - [G-StartUp Platform](https://github.com/care-on) (2024.03 - 2024.06 / 4인 / PL, PM, BE)
