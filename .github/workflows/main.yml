@@ -5,6 +5,9 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  # contents 권한 추가 (리포지토리 콘텐츠 수정 권한)
+
 jobs:
   build:
     runs-on: ubuntu-latest
