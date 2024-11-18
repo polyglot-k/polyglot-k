@@ -9,8 +9,8 @@
 ## 🌟Shortcut
 <table>
     <tr >
-      <td align="center" width="150px"><strong>Experience</strong></td>
       <td align="center" width="150px"><strong>Project</strong></td>
+      <td align="center" width="150px"><strong>Experience</strong></td>
       <td align="center" width="150px"><strong>My Skill</strong></td>
       <td align="center" width="150px"><strong>My Certification</strong></td>
     </tr>
