@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ## Intoduction
 
 안녕하세요. 소프트웨어 엔지니어 강태현입니다. 새로운 기술을 배우는 것을 즐기며, 웹 개발에 대한 큰 흥미를 가지고 있습니다.
@@ -12,8 +13,7 @@
 [Go to](./project.md)
 
 
-<div align="center">
-  
+
 ## My Tech Skill
 #### Proficient
 Javascript, Typescript, Java, Express.js, React.js, Spring boot, Spring Jpa, Mysql, Redis, AWS, Docker
