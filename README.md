@@ -10,16 +10,15 @@
       <td><strong>Experience</strong></td>
       <td><strong>Project</strong></td>
       <td><strong>My Skill</strong></td>
+      <td><strong>My Certification</strong></td>
     </tr>
     <tr>
       <td><a href="./project.md">Go to</a></td>
       <td><a href="./experience.md">Go to</a></td>
       <td><a href="./my-skill.md">Go to</a></td>
+      <td><a href="./certification.md">Go to</a></td>
     </tr>
-  </table>
-
-## Certification
-오픽 IM1, SQLD, 네트워크 관리사 2급, 리눅스 마스터 2급, 정보처리기능사
+ </table>
 
 </div>
 
