@@ -38,6 +38,6 @@
 <hr/>
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=knu-k&theme=flat&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=polyglot-k&theme=flat&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
