@@ -18,8 +18,8 @@ Beyond coding, I am passionate about **fostering a positive developer culture**.
 
 | Description                                         | Organization                                             | Award        | Date     |
 | :-------------------------------------------------- | :------------------------------------------------------- | :----------- | :------- |
-| 2023 National Public Data Utilization Hackathon     | Software Education Center, Kyungpook National University | Grand Prize  | Oct 2023 |
-| Daegu Shining SW Hackathon                          | Kyungpook National University (Computer)                 | Grand Prize  | Nov 2023 |
+| 2023 Daegu-Gyeongbuk Public Data Hackathon     | Software Education Center, Kyungpook National University | Grand Prize  | Oct 2023 |
+| 2023 Daegu Shining SW Hackathon                          | Kyungpook National University (Computer)                 | Grand Prize  | Nov 2023 |
 | 2024 Daegu Shining SW Hackathon                     | Kyungpook National University (Computer)                 | Grand Prize  | Sep 2024 |
 | KIPS Spring Integrated Conference                   | Korea Information Processing Society (KIPS)              | Bronze Prize | Jun 2024 |
 | KIPS Fall Integrated Conference                     | Korea Information Processing Society (KIPS)              | Gold Prize   | Nov 2024 |
