@@ -5,7 +5,7 @@ I am a **backend engineer** who enjoys tackling **new challenges**. While I have
 Beyond coding, I am passionate about **fostering a positive developer culture**. As a [**Google Developer Group on Campus (GDGoC) KNU, 5th term Organizer**](https://github.com/orgs/GDG-on-Campus-KNU), I have **organized community events, shared knowledge, and mentored other developers**.
 
 
-## Open Source Contribution
+## Open Source Contributions
 
 | No | Project          | Contribution                                                                                                                                                                                               | PR      | Role                  | Date                                                                         |
 | -- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------- | --------------------------------------------------------------------------- |
