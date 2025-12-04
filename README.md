@@ -5,4 +5,5 @@
 
 그 관심을 바탕으로 Spring Framework와 Spring Data JPA에 총 4회 기여하며 작게나마 오픈소스 생태계에 참여한 경험도 있습니다.
 
-[🔖 블로그 바로가기 ](https://polyglot-k.github.io)
+| [🔖 블로그 바로가기 ](https://polyglot-k.github.io) | [🔖 링크드인 바로가기 ](https://www.linkedin.com/in/taehyun-kang-847039304) | 
+|-|-|
