@@ -1,26 +1,8 @@
-## Introduction
+안녕하세요, **백엔드 개발자** 강태현 입니다.
 
-I am a **backend engineer** who enjoys tackling **new challenges**. While I have not participated extensively, I continuously **contribute to open source projects**, striving to write **clean, efficient, and maintainable code**. My contributions to **Spring Framework** and **Spring Data JPA** reflect my focus on improving **code readability, performance, and memory efficiency**.
+백엔드는 보이지 않지만, 사용자 경험을 결정짓는 핵심이라고 생각합니다. 저는 기능 개발뿐 아니라 흐름과 구조를 설계해 UX 임팩트를 만드는 개발자를 지향합니다.
+기술을 단순히 사용하는 데 그치지 않고, 원리를 이해하고 개선해보는 과정을 좋아합니다.
 
-Beyond coding, I am passionate about **fostering a positive developer culture**. As a [**Google Developer Group on Campus (GDGoC) KNU, 5th term Organizer**](https://github.com/orgs/GDG-on-Campus-KNU), I have **organized community events, shared knowledge, and mentored other developers**.
+그 관심을 바탕으로 Spring Framework와 Spring Data JPA에 총 4회 기여하며 작게나마 오픈소스 생태계에 참여한 경험도 있습니다.
 
-## Awards
-
-| Description                                         | Organization                                             | Award        | Date     |
-| :-------------------------------------------------- | :------------------------------------------------------- | :----------- | :------- |
-| 2023 Daegu-Gyeongbuk Public Data Hackathon     | Software Education Center, Kyungpook National University | Grand Prize  | Oct 2023 |
-| 2023 Daegu Shining SW Hackathon                          | Kyungpook National University (Computer)                 | Grand Prize  | Nov 2023 |
-| 2024 Daegu Shining SW Hackathon                     | Kyungpook National University (Computer)                 | Grand Prize  | Sep 2024 |
-| KIPS Spring Integrated Conference                   | Korea Information Processing Society (KIPS)              | Bronze Prize | Jun 2024 |
-| KIPS Fall Integrated Conference                     | Korea Information Processing Society (KIPS)              | Gold Prize   | Nov 2024 |
-| Daegu Regional Industry Performance Exchange        | Daegu Digital Innovation Promotion Agency                | Grand Prize  | Nov 2024 |
-| Daegu Industry-Academia Cooperation Project Contest | Daegu Digital Innovation Promotion Agency                | Grand Prize  | Nov 2024 |
-| Open SW Development Portfolio Contest               | Kyungpook National University (Computer)                 | Bronze Prize | Nov 2024 |
-
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-
-
+[🔖 블로그 바로가기 ](https://polyglot-k.github.io)
