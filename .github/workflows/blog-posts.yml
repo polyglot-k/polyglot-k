@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정에 업데이트
-  workflow_dispatch:
+    - cron: '0 0 * * *' # 매일 자정(UTC 00:00)에 업데이트
+  workflow_dispatch: # 수동 실행 가능하도록 설정
 
 jobs:
   update-readme-with-blog:
@@ -14,3 +14,6 @@ jobs:
         with:
           feed_list: "https://polyglot-k.github.io/rss.xml"
           max_post_count: 5
+          template: "$newline - 📝 [$title]($url) <span style='color: gray; font-size: 80%;'>$date</span>"
+          date_format: "yyyy.mm.dd"
+          tag_post_pre_newline: true
