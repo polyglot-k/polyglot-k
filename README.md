@@ -10,7 +10,8 @@
 
 ### 내 블로그 최신 글
 <!-- BLOG-POST-LIST:START -->
-- [블로그에 오신 것을 환영합니다!](https://polyglot-k.github.io/blog/hello-world)
-- [Next.js 시작하기](https://polyglot-k.github.io/blog/getting-started-with-nextjs)
-- [Tailwind CSS 꿀팁 모음](https://polyglot-k.github.io/blog/tailwind-css-tips)
+
+ - 📝 [블로그에 오신 것을 환영합니다!](https://polyglot-k.github.io/blog/hello-world) <span style='color: gray; font-size: 80%;'>2024.01.15</span>
+ - 📝 [Next.js 시작하기](https://polyglot-k.github.io/blog/getting-started-with-nextjs) <span style='color: gray; font-size: 80%;'>2024.01.10</span>
+ - 📝 [Tailwind CSS 꿀팁 모음](https://polyglot-k.github.io/blog/tailwind-css-tips) <span style='color: gray; font-size: 80%;'>2024.01.05</span>
 <!-- BLOG-POST-LIST:END -->
