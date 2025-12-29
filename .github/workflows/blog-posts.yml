@@ -1,0 +1,16 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정에 업데이트
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://polyglot-k.github.io/rss.xml"
+          max_post_count: 5
