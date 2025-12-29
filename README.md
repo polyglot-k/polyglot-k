@@ -13,5 +13,6 @@
  - 📝 [Tailwind CSS 꿀팁 모음](https://polyglot-k.github.io/blog/tailwind-css-tips) <span style='color: gray; font-size: 80%;'>2024.01.05</span>
 <!-- BLOG-POST-LIST:END -->
 
+### 바로가기
 | [🔖 블로그 바로가기 ](https://polyglot-k.github.io) | [🔖 링크드인 바로가기 ](https://www.linkedin.com/in/%ED%83%9C%ED%98%84-%EA%B0%95-a96748367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
 |-|-|
