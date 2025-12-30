@@ -1,15 +1,18 @@
 name: Latest blog post workflow
+
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정
+    - cron: '0 0 * * *' # 매일 자정 (UTC)
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with [NEW] tag
+    name: Update README
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,59 +22,72 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
-      - name: Update README
+      - name: Update README with latest blog posts
         shell: python
         run: |
           import feedparser
           from datetime import datetime, timedelta
+          import time
           import re
 
-          # 설정
-          rss_url = "https://polyglot-k.github.io/rss.xml"
-          readme_path = "README.md"
-          max_posts = 5
+          RSS_URL = "https://polyglot-k.github.io/rss.xml"
+          MAX_POSTS = 5
+          NEW_DAYS = 3
 
-          # 피드 가져오기
-          feed = feedparser.parse(rss_url)
-          entries = feed.entries[:max_posts]
+          START_MARKER = "<!-- BLOG-POST-LIST:START -->"
+          END_MARKER = "<!-- BLOG-POST-LIST:END -->"
 
-          new_content = ""
-          now = datetime.now()
+          feed = feedparser.parse(RSS_URL)
 
-          for entry in entries:
-              # 날짜 파싱 (RSS마다 형식이 다를 수 있음)
-              try:
-                  published = datetime(*entry.published_parsed[:6])
-                  # 3일(72시간) 이내인지 확인
-                  is_new = (now - published) <= timedelta(days=3)
-              except:
-                  is_new = False
+          now = datetime.utcnow()
+          threshold = now - timedelta(days=NEW_DAYS)
 
-              tag = "[NEW] " if is_new else ""
+          posts_md = []
+
+          for entry in feed.entries[:MAX_POSTS]:
+              published = datetime.fromtimestamp(
+                  time.mktime(entry.published_parsed)
+              )
               date_str = published.strftime("%Y.%m.%d")
-              title = entry.title
-              url = entry.link
-              
-              # 템플릿 적용
-              new_content += f"- 📝 {tag}[{title}]({url}) <span style='color: gray; font-size: 80%;'>{date_str}</span>\n"
 
-          # README 업데이트
-          with open(readme_path, "r", encoding="utf-8") as f:
+              new_tag = (
+                  "<b style='color: #2ea44f;'>[NEW]</b> "
+                  if published >= threshold
+                  else ""
+              )
+
+              posts_md.append(
+                  f" - 📝 {new_tag}[{entry.title}]({entry.link}) "
+                  f"<span style='color: gray; font-size: 80%;'>{date_str}</span>"
+              )
+
+          new_block = "\n".join(posts_md)
+
+          with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
 
-          # 와 사이 교체
-          start_tag = ""
-          end_tag = ""
-          
-          pattern = f"{start_tag}.*?{end_tag}"
-          replacement = f"{start_tag}\n{new_content}{end_tag}"
-          
-          updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+          if START_MARKER not in readme or END_MARKER not in readme:
+              raise RuntimeError(
+                  "README.md에 BLOG-POST-LIST 마커가 없습니다."
+              )
 
-          with open(readme_path, "w", encoding="utf-8") as f:
-              f.write(updated_readme)
+          pattern = re.compile(
+              rf"{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}",
+              re.DOTALL
+          )
 
-      - name: Commit and Push
+          replacement = (
+              f"{START_MARKER}\n\n"
+              f"{new_block}\n"
+              f"{END_MARKER}"
+          )
+
+          updated = pattern.sub(replacement, readme)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
