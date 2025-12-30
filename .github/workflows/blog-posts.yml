@@ -1,19 +1,80 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정(UTC 00:00)에 업데이트
-  workflow_dispatch: # 수동 실행 가능하도록 설정
+    - cron: '0 0 * * *' # 매일 자정
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update README
+    name: Update README with [NEW] tag
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          feed_list: "https://polyglot-k.github.io/rss.xml"
-          max_post_count: 5
-          template: "$newline - 📝 [$title]($url) <span style='color: gray; font-size: 80%;'>$date</span>"
-          date_format: "yyyy.mm.dd"
-          tag_post_pre_newline: true
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Update README
+        shell: python
+        run: |
+          import feedparser
+          from datetime import datetime, timedelta
+          import re
+
+          # 설정
+          rss_url = "https://polyglot-k.github.io/rss.xml"
+          readme_path = "README.md"
+          max_posts = 5
+
+          # 피드 가져오기
+          feed = feedparser.parse(rss_url)
+          entries = feed.entries[:max_posts]
+
+          new_content = ""
+          now = datetime.now()
+
+          for entry in entries:
+              # 날짜 파싱 (RSS마다 형식이 다를 수 있음)
+              try:
+                  published = datetime(*entry.published_parsed[:6])
+                  # 3일(72시간) 이내인지 확인
+                  is_new = (now - published) <= timedelta(days=3)
+              except:
+                  is_new = False
+
+              tag = "[NEW] " if is_new else ""
+              date_str = published.strftime("%Y.%m.%d")
+              title = entry.title
+              url = entry.link
+              
+              # 템플릿 적용
+              new_content += f"- 📝 {tag}[{title}]({url}) <span style='color: gray; font-size: 80%;'>{date_str}</span>\n"
+
+          # README 업데이트
+          with open(readme_path, "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          # 와 사이 교체
+          start_tag = ""
+          end_tag = ""
+          
+          pattern = f"{start_tag}.*?{end_tag}"
+          replacement = f"{start_tag}\n{new_content}{end_tag}"
+          
+          updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          with open(readme_path, "w", encoding="utf-8") as f:
+              f.write(updated_readme)
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with latest blog posts" || echo "No changes to commit"
+          git push
