@@ -11,7 +11,7 @@
 <!-- BLOG-POST-LIST:START -->
 
  - 📝 <b style='color: #2ea44f;'>[NEW]</b> [Python - GIL(Global Interpreter Lock, 전역 인터프리터 락)](https://polyglot-k.github.io/blog/what-is-the-gil-in-python) <span style='color: gray; font-size: 80%;'>2026.01.01</span>
- - 📝 <b style='color: #2ea44f;'>[NEW]</b> [왜 Redis는 싱글 스레드인가? Redis를 향한 오해](https://polyglot-k.github.io/blog/why-redis-is-single-thread) <span style='color: gray; font-size: 80%;'>2025.12.31</span>
+ - 📝 [왜 Redis는 싱글 스레드인가? Redis를 향한 오해](https://polyglot-k.github.io/blog/why-redis-is-single-thread) <span style='color: gray; font-size: 80%;'>2025.12.31</span>
  - 📝 [MySQL connection pool 크기를 정하는 기준](https://polyglot-k.github.io/blog/mysql-connection-pool-size) <span style='color: gray; font-size: 80%;'>2025.12.30</span>
  - 📝 [결제 시스템에서 Idempotency 설계하기 – 중복 결제 요청을 막는 방법](https://polyglot-k.github.io/blog/payment-system-idempotency-design-prevent-duplicate-payments) <span style='color: gray; font-size: 80%;'>2025.12.30</span>
  - 📝 [테스트코드 작성 시 Stub과 Fake를 나누는 기준](https://polyglot-k.github.io/blog/stub-vs-fake-criteria) <span style='color: gray; font-size: 80%;'>2025.11.18</span>
