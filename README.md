@@ -6,7 +6,9 @@
 기술을 단순히 사용하는 데 그치지 않고, 원리를 이해하고 개선해보는 과정을 좋아합니다.
 
 그 관심을 바탕으로 Spring Framework와 Spring Data JPA에 총 4회 기여하며 작게나마 오픈소스 생태계에 참여한 경험도 있습니다.
-
+### 경력사항
+- Agent Developer Intern, Wrtn AX CIC (2026.01 - 2026.02)
+- Backend Engineer Intern, Ably Corp (2026.02 - 현재)
 ### 내 블로그 최신 글
 <!-- BLOG-POST-LIST:START -->
 
